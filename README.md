@@ -7,8 +7,6 @@ A native Android application for the Bakaláři school system API v3.
 - **Login**: Authenticate with your school's Bakaláři instance using username/password
 - **Subjects List**: View all subjects with their grade averages (color-coded by performance)
 - **Marks Detail**: Click any subject to see all marks with details (date, description, weight, etc.)
-- **Pull-to-refresh**: Swipe down to refresh marks data
-- **Logout**: Securely log out and clear stored tokens
 
 ## Project Structure
 
@@ -52,12 +50,6 @@ app/src/main/java/com/example/bakalariapp/
 - **Navigation**: Jetpack Navigation Compose
 - **Storage**: DataStore Preferences (for tokens)
 - **Async**: Kotlin Coroutines + Flow
-
-## How to Build
-
-1. Open the project in Android Studio
-2. Sync Gradle files
-3. Run on an emulator or device (minSdk: 26, targetSdk: 34)
 
 ## API Documentation
 
