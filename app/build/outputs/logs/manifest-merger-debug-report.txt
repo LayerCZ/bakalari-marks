@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\ef6efcaf7490980609317882e028e9fc\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\4703a242f0395e423ce281545ef11a7c\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\c0de1aea45cb5364eb5aad0cf215f79e\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\95284ca243f3420b33e427b2a8e134a0\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\47b0df8b8616ede22aeb793b1c55e8fc\transformed\navigation-compose-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\8cf82a7f1597afe18543038b62404816\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\26f26f23e06094ab757ef1c9fcf3da19\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\288b65d4c86494bf4cd5353948df1028\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\a736e277f8b387182580598112af2420\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\f1bbf5825e66e34a72a9f7fa9716f805\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\58cd51f3f09e7e53e287f69290102291\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a746b43b5053969028a3dca881ec419b\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e4e856faef1d6787babfae42d9a5ec9a\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e0a32946b4705d698e94ef895618c9a6\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e1e2c3e5432faaddb25a1920edfdf84e\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a8ed1da142118cde0966e9d49feb271f\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\819d0b0416d7109bc2ae105882da65f6\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\8e640c4b2773394e9746c1325bc10cf8\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\762c195572a755d6fa06dc90af68633b\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\5f5ea6bb343aa4c128217d9078ac5cf3\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\62e42d4e7dfaa9bf6b088ad047fbe113\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\c286dac299ba43beb121a64834e8b6bc\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\81bb346e08457d47ad09269fbe76f26e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\05b455ec392f35b4c3fbbd9c1cc98a70\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d01e88a8d0ad0984a82c25fd4a8a1fdf\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\73b4417885ab7864ebaa6f512c07d2d6\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5207a09316854eb70e4ff7e7befa7c46\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\e3530e666cbb59a208511ca465993635\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\107c9da2b7cb86e4032f7e83e7cefa2f\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\633b93dbc6fdd3a096b7caafe7779527\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\1e43e176af36d54accffc5b5a6764886\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\0fa246de8abadc6e6f20ca76e8b9b2e7\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a31c7d03110b6a6008f7b47eccc2249a\transformed\activity-compose-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\33e350f36f0a9e60e8bb987ef285aad6\transformed\activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\658f28f5c4247cdba090eaefd7fab874\transformed\activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\3fdebe4457b5daeceac1dd09e58d5bd6\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b15ddef094370ae35fabb7a14965aef7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7e1cf4db6af10746cd9b8ab9a48ddd0e\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\61addab0a9d718fa9c7556ba0118f431\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7231699d13bdd8e35dfe9299fd1781c6\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5fa703e7c2d67147318aa5399baeca0f\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\89f78fcdfce0347ffd63201d3400d6b4\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\b05b7fe20830991911f1abb54af6da14\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a8dad5d0f25fbe78968d151214a8a03c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\ca5432e87a6a5bb044cf6b2378354014\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\83da0c11df2028286d9192408daf65ce\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\f4c56903abc9a1f6799000ad0d3f3f38\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:7:5-25:19
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a8dad5d0f25fbe78968d151214a8a03c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a8dad5d0f25fbe78968d151214a8a03c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:13:9-49
+	android:usesCleartextTraffic
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:14:9-45
+activity#com.example.bakalariapp.MainActivity
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:19:13-53
+	android:name
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\ef6efcaf7490980609317882e028e9fc\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\ef6efcaf7490980609317882e028e9fc\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\4703a242f0395e423ce281545ef11a7c\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\4703a242f0395e423ce281545ef11a7c\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\c0de1aea45cb5364eb5aad0cf215f79e\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\c0de1aea45cb5364eb5aad0cf215f79e\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\95284ca243f3420b33e427b2a8e134a0\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\95284ca243f3420b33e427b2a8e134a0\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\47b0df8b8616ede22aeb793b1c55e8fc\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\hokr\.gradle\caches\8.13\transforms\47b0df8b8616ede22aeb793b1c55e8fc\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\8cf82a7f1597afe18543038b62404816\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\8cf82a7f1597afe18543038b62404816\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\26f26f23e06094ab757ef1c9fcf3da19\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\26f26f23e06094ab757ef1c9fcf3da19\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\288b65d4c86494bf4cd5353948df1028\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\288b65d4c86494bf4cd5353948df1028\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\a736e277f8b387182580598112af2420\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\a736e277f8b387182580598112af2420\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\f1bbf5825e66e34a72a9f7fa9716f805\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.2] C:\Users\hokr\.gradle\caches\8.13\transforms\f1bbf5825e66e34a72a9f7fa9716f805\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\58cd51f3f09e7e53e287f69290102291\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\58cd51f3f09e7e53e287f69290102291\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a746b43b5053969028a3dca881ec419b\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a746b43b5053969028a3dca881ec419b\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e4e856faef1d6787babfae42d9a5ec9a\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e4e856faef1d6787babfae42d9a5ec9a\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e0a32946b4705d698e94ef895618c9a6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e0a32946b4705d698e94ef895618c9a6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e1e2c3e5432faaddb25a1920edfdf84e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\e1e2c3e5432faaddb25a1920edfdf84e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a8ed1da142118cde0966e9d49feb271f\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\a8ed1da142118cde0966e9d49feb271f\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\819d0b0416d7109bc2ae105882da65f6\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\819d0b0416d7109bc2ae105882da65f6\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\8e640c4b2773394e9746c1325bc10cf8\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\8e640c4b2773394e9746c1325bc10cf8\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\762c195572a755d6fa06dc90af68633b\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\762c195572a755d6fa06dc90af68633b\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\5f5ea6bb343aa4c128217d9078ac5cf3\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\5f5ea6bb343aa4c128217d9078ac5cf3\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\62e42d4e7dfaa9bf6b088ad047fbe113\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\62e42d4e7dfaa9bf6b088ad047fbe113\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\c286dac299ba43beb121a64834e8b6bc\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\c286dac299ba43beb121a64834e8b6bc\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\81bb346e08457d47ad09269fbe76f26e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\81bb346e08457d47ad09269fbe76f26e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\05b455ec392f35b4c3fbbd9c1cc98a70\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\hokr\.gradle\caches\8.13\transforms\05b455ec392f35b4c3fbbd9c1cc98a70\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d01e88a8d0ad0984a82c25fd4a8a1fdf\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d01e88a8d0ad0984a82c25fd4a8a1fdf\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\73b4417885ab7864ebaa6f512c07d2d6\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\73b4417885ab7864ebaa6f512c07d2d6\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5207a09316854eb70e4ff7e7befa7c46\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5207a09316854eb70e4ff7e7befa7c46\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\e3530e666cbb59a208511ca465993635\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\e3530e666cbb59a208511ca465993635\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\107c9da2b7cb86e4032f7e83e7cefa2f\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\107c9da2b7cb86e4032f7e83e7cefa2f\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\633b93dbc6fdd3a096b7caafe7779527\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\633b93dbc6fdd3a096b7caafe7779527\transformed\lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\1e43e176af36d54accffc5b5a6764886\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\1e43e176af36d54accffc5b5a6764886\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\0fa246de8abadc6e6f20ca76e8b9b2e7\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\0fa246de8abadc6e6f20ca76e8b9b2e7\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a31c7d03110b6a6008f7b47eccc2249a\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a31c7d03110b6a6008f7b47eccc2249a\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\33e350f36f0a9e60e8bb987ef285aad6\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\33e350f36f0a9e60e8bb987ef285aad6\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\658f28f5c4247cdba090eaefd7fab874\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\hokr\.gradle\caches\8.13\transforms\658f28f5c4247cdba090eaefd7fab874\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\3fdebe4457b5daeceac1dd09e58d5bd6\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\3fdebe4457b5daeceac1dd09e58d5bd6\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b15ddef094370ae35fabb7a14965aef7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b15ddef094370ae35fabb7a14965aef7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7e1cf4db6af10746cd9b8ab9a48ddd0e\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7e1cf4db6af10746cd9b8ab9a48ddd0e\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\61addab0a9d718fa9c7556ba0118f431\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\61addab0a9d718fa9c7556ba0118f431\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7231699d13bdd8e35dfe9299fd1781c6\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\7231699d13bdd8e35dfe9299fd1781c6\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5fa703e7c2d67147318aa5399baeca0f\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\hokr\.gradle\caches\8.13\transforms\5fa703e7c2d67147318aa5399baeca0f\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\89f78fcdfce0347ffd63201d3400d6b4\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\89f78fcdfce0347ffd63201d3400d6b4\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\b05b7fe20830991911f1abb54af6da14\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\b05b7fe20830991911f1abb54af6da14\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a8dad5d0f25fbe78968d151214a8a03c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\a8dad5d0f25fbe78968d151214a8a03c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\ca5432e87a6a5bb044cf6b2378354014\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\ca5432e87a6a5bb044cf6b2378354014\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\83da0c11df2028286d9192408daf65ce\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hokr\.gradle\caches\8.13\transforms\83da0c11df2028286d9192408daf65ce\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\f4c56903abc9a1f6799000ad0d3f3f38\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hokr\.gradle\caches\8.13\transforms\f4c56903abc9a1f6799000ad0d3f3f38\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hokr\Documents\Code\js\bakalari_otrok\BakalariApp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hokr\.gradle\caches\8.13\transforms\fcf392dcc60101de9fd2bad8509cdd88\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\a78d9fdee428535fe28335fdb7993c99\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\hokr\.gradle\caches\8.13\transforms\d3e9c08bd11ae394033ffc7a7a987b8e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.3] C:\Users\hokr\.gradle\caches\8.13\transforms\ee55312f65e0a57cbe1821af8b72f381\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.bakalariapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.bakalariapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\hokr\.gradle\caches\8.13\transforms\b2bb6262fa9cbd433d97d280a7a57e84\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\hokr\.gradle\caches\8.13\transforms\08114049970c94b8b6e18c017df21297\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

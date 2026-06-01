@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bakaláři App</string>
+    <string name="login">Přihlásit se</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="password">Heslo</string>
+    <string name="server_url">URL školy</string>
+    <string name="marks">Známky</string>
+    <string name="average">Průměr</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="back">Zpět</string>
+    <string name="refresh">Obnovit</string>
+</resources>

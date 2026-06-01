@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Bakaláři App</string>
+    <string name="average">Průměr</string>
+    <string name="back">Zpět</string>
+    <string name="login">Přihlásit se</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="marks">Známky</string>
+    <string name="password">Heslo</string>
+    <string name="refresh">Obnovit</string>
+    <string name="server_url">URL školy</string>
+    <string name="username">Uživatelské jméno</string>
+    <style name="Theme.BakalariApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_500</item>
+    </style>
+</resources>
